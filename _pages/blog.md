@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 permalink: /blog/
@@ -194,3 +195,8 @@ pagination:
 {% endif %}
 
 </div>
+-->
+
+# Blog
+![Coming Soon](/assets/img/coming-soon.jpg)
+<p style="text-align: center;">Launching soon: Insights, stories, and more.</p>
