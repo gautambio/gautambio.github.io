@@ -6,7 +6,7 @@ subtitle: Research @ IIT  •  Previously PU | JNCASR  •                      
 
 profile:
   align: right
-  image: assets/img/prof_pic.JPG
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 211</p>
